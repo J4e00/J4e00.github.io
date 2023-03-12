@@ -21,7 +21,7 @@ title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "과학컴퓨팅"
 description              : "과학컴퓨팅 수업 블로그"
-url                      : "https://J4e0.github.io"# the base hostname & protocol for your site e.g. 
+url                      : "https://J4e0.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
