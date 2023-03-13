@@ -21,16 +21,15 @@ comments: true
 - 맛있다!
 
 ## 조리법
-
-- [정석](https://www.10000recipe.com/recipe/6845428)
+- [정석](https://www.10000recipe.com/recipe/6905743)
+- [기사식당](https://www.10000recipe.com/recipe/6845428)
 
 
 ## 유튜브 동영상
-> 유튜브
 - [백선생님](https://youtu.be/j7s9VRsrm9o)
 
 ## 이미지 
-> 이미지
+> 제육볶음
 ![제육]({{site.url}}/1678708527251.jpg)
 
 
