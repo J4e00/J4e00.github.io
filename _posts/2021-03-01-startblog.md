@@ -12,9 +12,7 @@ toc_label: 목차
 headline: "test01-headline"
 comments: true
  -->
-# **[공지사항]** [BTG 링크](https://sites.google.com/view/brain-theory-group-pknu)
 
-# 마크다운으로 블로그 내용을 작성할 수 있습니다. 
 
 
 ## 제육볶음
@@ -29,14 +27,9 @@ comments: true
 
 ## 유튜브 동영상
 
-> 유튜브 영상
-# {% include video id="pa8dy7-23tI" provider="youtube" %}
-# {% https://youtu.be/j7s9VRsrm9o %}
 ## 이미지 
 
 > 이미지
 ![제육]({{site.url}}/1678708527251.jpg)
-# ![Cell]({{site.url}}/images/2021-03-01-image2.png)
 
-# 더 자세한 깃헙 블로깅 팁
-# - [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
+
