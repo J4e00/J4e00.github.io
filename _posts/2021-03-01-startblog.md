@@ -22,7 +22,7 @@ comments: true
 
 ## 조리법
 
-- [링크1](https://www.10000recipe.com/recipe/6845428)
+- [정석](https://www.10000recipe.com/recipe/6845428)
 
 
 ## 유튜브 동영상
