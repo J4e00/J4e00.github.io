@@ -31,12 +31,12 @@ comments: true
 
 > 유튜브 영상
 # {% include video id="pa8dy7-23tI" provider="youtube" %}
-{% https://youtu.be/j7s9VRsrm9o %}
+# {% https://youtu.be/j7s9VRsrm9o %}
 ## 이미지 
 
 > 이미지
-![]({{site.url}}/te-lun-ou-yang-TXB_Nq8ieX4-unsplash.jpg)
+![제육]({{site.url}}/1678708527251.jpg)
 # ![Cell]({{site.url}}/images/2021-03-01-image2.png)
 
-## 더 자세한 깃헙 블로깅 팁
-- [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
+# 더 자세한 깃헙 블로깅 팁
+# - [테디노트](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY)
